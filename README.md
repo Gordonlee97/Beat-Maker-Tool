@@ -1,12 +1,12 @@
 # Beat-Maker-Tool
 
-###What is Beat Maker Tool?
+### What is Beat Maker Tool?
 A Python program that allows the user to create custom beats and mixes using an interactive elementary digital audio workstation.
 
 Runs on Pygame with the Mixer plugin to play simultaneous sounds.
 
 
-###How to launch the app locally?
+### How to launch the app locally?
 
 1. For and clone the repository to your local environment.
 2. Have Python and Pygame installed.
